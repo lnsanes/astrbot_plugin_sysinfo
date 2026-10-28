@@ -1,0 +1,6 @@
+name: astrbot_plugin_sysinfo
+display_name: 系统信息（/sys）
+desc: /sys 查看 CPU、内存、磁盘、网络、运行时长，仅白名单 QQ 可用
+version: 1.0.0
+author: xiaofeiyu
+repo: ""
